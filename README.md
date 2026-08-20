@@ -1,4 +1,4 @@
-<img width="864" height="837" alt="image" src="https://github.com/user-attachments/assets/3f6d4285-377c-4dbc-9a55-0c82e5e62afa" /># StarPad
+# StarPad
 StarPad is a Star Wars themed macropad with 4 keys, an OLED screen, a rotary encoder, and runs on QMK.
 
 # Features
