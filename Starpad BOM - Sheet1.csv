@@ -1,0 +1,5 @@
+Item,Count,Cost (USD),Link,Notes
+JLCPCB PCB,5,$4.00,,"No links, you have to upload Gerbers"
+JLCPCB Shipping,1,$6.58,,Shipping can change depending on region
+3DP Case,1,$0.00,,I print myself
+Hackpad Kit,1,$0.00,,Hackclub ships to me
